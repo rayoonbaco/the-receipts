@@ -19,7 +19,7 @@ const copyStatus = document.querySelector('.copy-status');
 copyButton.addEventListener('click', async () => {
   try {
     await navigator.clipboard.writeText(copyButton.dataset.copy);
-    copyStatus.textContent = 'Copied. Claude’s turn.';
+    copyStatus.textContent = 'Copied. Paste it into the AI reviewer of your choice.';
   } catch {
     copyStatus.textContent = 'Press and hold the question above to copy it.';
   }

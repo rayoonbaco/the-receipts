@@ -1,6 +1,6 @@
 # The Receipts
 
-Seventeen public AI-built projects created by Ray Gomez in nine months—ranked, summarized, linked and honestly evaluated.
+Eighteen public AI-assisted projects created by Ray Gomez in nine months—ranked, summarized, linked and bounded by what the evidence actually supports. Artificial Stupidity is the current defining method and first-ranked project.
 
 ## Render deployment
 
